@@ -4,5 +4,6 @@ CSS
 Javascript Lanjutan 
 Javascript DOM
 Framework Javascript
->ReactJS
+ >Reactnative
+ >Angularjs
 NodeJs
