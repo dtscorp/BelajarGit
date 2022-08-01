@@ -4,6 +4,6 @@ CSS
 Javascript Lanjutan 
 Javascript DOM
 Framework Javascript
->ReactJS
+>Reactjs
 >nuxtjs
 NodeJs
