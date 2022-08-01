@@ -5,4 +5,5 @@ Javascript Lanjutan
 Javascript DOM
 Framework Javascript
 >ReactJS
+>nuxtjs
 NodeJs
